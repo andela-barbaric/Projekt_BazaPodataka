@@ -1,0 +1,17 @@
+Kompanija za brodove je odlučila implementirati bazu podataka kako bi uspješno evidentirala sve važne informacije o vožnjama svojih brodova. 
+Ova baza podataka omogućiti će precizno planiranje ruta, praćenje tereta te praćenje svake vožnje koja se odvija. 
+Svaka vožnja ima jedinstvenu šifru vožnje koja je bitna za identificiranje same vožnje. 
+Također, evidentiraju se podaci o mjestu polaska i mjestu dolaska za svaku vožnju. 
+Upravo ove informacije omogućuju uspješno usklađivanje rasporeda i optimizaciju putovanja. 
+Za svaku luku se bilježe važni podaci kao što su šifra luke, naziv luke i država u kojoj se luka nalazi. 
+Svi dani podaci omogućuju pravilno usklađivanje vožnji brodova i identifikaciju specifičnih luka. 
+Svaki brod kompanije ima svoju jedinstvenu šifru koja ga identificira. 
+Uz šifu, navode se podaci o nazivu broda, vrsti broda, godini proizvodnje i kapacitetu. 
+Vrsta broda može varirati, odnosno brod može biti putnički, teretni ili putnički i teretni, što omogućuje razlikovanje brodova prema njihovim specifičnim namjenama. 
+Kada putnici kupuju karte za putovanje brodom, njihovi podaci se evidentiraju u sustavu. 
+Svaki putnik ima jedinstvenu šifru, te informacije poput imena, prezimena i godina putnika. 
+Za svako putovanje, putnici kupuju kartu, a svaka karta sastoji se od svoje jedinstvene šifre, cijene, vrste, vremena polaska i vremena dolaska. 
+Jedna karta važi samo za jednog putnika i koristi se isključivo za samo jedno putovanje. 
+Na svakom putovanju brodom nalazi se određeni kapetan koji upravlja brodom. 
+Za svakog kapetana evidentiraju se bitni podaci kao što su šifra kapetana, ime, prezime i godine radnog iskustva. 
+Ovi podaci pomažu u praćenju i upravljanju radom kapetana na različitim putovanjima.
